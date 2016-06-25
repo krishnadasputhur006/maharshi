@@ -1,5 +1,3 @@
-dei pulikutti
-
 var express = require('express');
 var path = require('path');
 var favicon = require('static-favicon');
